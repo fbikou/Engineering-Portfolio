@@ -40,3 +40,6 @@
 
 # 活動リンク
 + [フリーランスエンジニア活動を発信しているTwitterのアカウント](https://twitter.com/fish_burozimapy)
++ [フリーランスエンジニア活動をしているココナラのマイページ](https://coconala.com/users/3423350)
++ [フリーランスエンジニア活動をしているCrowdWorksのマイページ](https://crowdworks.jp/public/employees/5066395)
++ [学部4年生の時に論文を発表した学会のプログラム](https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW000085B5)
