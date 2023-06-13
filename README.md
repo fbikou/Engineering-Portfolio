@@ -42,7 +42,7 @@
 + chatGPTを利用した商品レコメンドシステムの開発
 
 ### 作成中(1件)
-+ chatGPTを用いたGASの業務効率化ツール
++ chatGPTを用いたGASの業務自動化ツール
 
 # 活動リンク
 + [フリーランスエンジニア活動を発信しているTwitterのアカウント](https://twitter.com/fish_burozimapy)
