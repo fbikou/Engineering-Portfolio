@@ -44,7 +44,7 @@
 ### 納品, 契約完了済み(3件)
 + 手書き数字画像認識デスクトップアプリ開発に関する記事の作成
 + chatGPTを利用した商品レコメンドシステムの開発
-+ 既存ソフトウェアの仕様変更（chatGPT API利用仕様からAWS BedRock API利用使用への変更）
++ 既存ソフトウェアの仕様変更（chatGPT API利用仕様からAWS BedRock API利用仕様への変更）
 
 # 活動リンク
 + [フリーランスエンジニア活動を発信しているTwitterのアカウント](https://twitter.com/fish_burozimapy)
