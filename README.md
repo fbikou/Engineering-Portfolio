@@ -47,6 +47,7 @@
 + 既存ソフトウェアの仕様変更（chatGPT API利用仕様からAWS BedRock API利用仕様への変更）
 
 # 活動リンク
++ [習得技術一覧（プロフィール）](https://excel-program.com/profile/)
 + [運営中のExcel業務自動化ツール・技術の発信サイト](https://excel-program.com/)
 + [フリーランスエンジニア活動を発信しているTwitterのアカウント](https://twitter.com/fish_burozimapy)
 + [フリーランスエンジニア活動をしているココナラのマイページ](https://coconala.com/users/3423350)
